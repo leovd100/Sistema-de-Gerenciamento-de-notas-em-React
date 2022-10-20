@@ -13,3 +13,8 @@ Desenvolvimento de um sistema de cadastro de notas/lembretes com React. Esse exe
 
 * `npm i` Para baixar as dependências do Package.Json 
 * `npm start` para rodar o projeto
+
+
+-----------------------------------
+![img](./recursos/imgs/img1.png)
+![img](./recursos/imgs/img2.png)
